@@ -1,7 +1,20 @@
 {
   "spider": "./uyv0t678c488189af47bb91dc108484d17431",
   "sites": [
-    
+{
+      "key": "csp_XYQHiker_兔小贝2",
+      "name": "♻兔小贝2",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/兔小贝2.json",
+      "jar": "./lib/custom_spider.jar"
+    },
+
+
+	  
 	 {
       "key": "py_baby",
       "name": "♻宝宝┃合集",
@@ -24,18 +37,7 @@
       "ext": "./lib/兔小贝.json",
       "jar": "./lib/custom_spider.jar"
     },
-    {
-      "key": "csp_XYQHiker_兔小贝2",
-      "name": "♻兔小贝2",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/兔小贝2.json",
-      "jar": "./lib/custom_spider.jar"
-    },
- 
+     
     {
       "key": "py_cctv_1",
       "name": "️♻央视-少儿",
