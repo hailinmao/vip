@@ -793,7 +793,7 @@
       }
     },
      {"name": "玉米专用", "type": 1, "url": "https://jx.lvdoui.com/api/?key=2df2141f41357bb5fc696bf6d3f56f00&url=","ext":{"flag":["YuMi"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}}, 
-{"name":"dy6g","type":0,"url":"https://jx.xyflv.cc/?url=","ext": {
+{"name":"dy6g","type":1,"url":"https://jx.xyflv.cc/?url=","ext": {
                 "flag": [
                     "qq",
                     "腾讯",
